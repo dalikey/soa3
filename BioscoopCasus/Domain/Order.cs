@@ -1,5 +1,4 @@
 using BioscoopCasus.Behaviours.CalculatePrice;
-using BioscoopCasus.Extensions;
 using BioscoopCasus.Interfaces;
 using System.Text.Json.Serialization;
 
